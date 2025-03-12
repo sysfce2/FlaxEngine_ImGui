@@ -1243,7 +1243,7 @@ public enum ImGuiMouseButton
 }
 
 
-partial class ImGui
+public partial class ImGui
 {
     /// <summary>
     /// Button.
